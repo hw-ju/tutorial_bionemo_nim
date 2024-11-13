@@ -11,7 +11,7 @@ This tutorial uses NVIDA-hosted BioNeMo NIMs running on NVIDIA's computing infra
 \- In the pop-up window, enter your email address to receive free credits for using NVIDIA-hosted NIMs, then click "Next" (highlighted with orange strokes below):  
 <img src="images/register_email.png" alt="Alt text" width="400">  
 \- Follow the instructions to either log in or create a free NVIDIA Developer account.  
-\- You might need to click on "Build with this NIM" again, under "Hosted API" click "Generate API Key" in the pop-up window (highlighted with orange strokes below):    
+\- You might need to click on "Build with this NIM" again. In the pop-up window, under "Hosted API", click "Generate API Key" (highlighted with orange strokes below):    
 <img src="images/gen_API_key.png" alt="Alt text" width="400">  
 \- Your API Key shows up, click the button next to it to copy it (highlighted with an orange stroke below):  
 <img src="images/copy_key.png" alt="Alt text" width="200">  
