@@ -15,7 +15,7 @@ This tutorial uses NVIDA-hosted BioNeMo NIMs running on NVIDIA's computing infra
 <img src="images/gen_API_key.png" alt="Alt text" width="400">
 - Your API Key shows up, click the button next to it to copy it (highlighted with an orange stroke below):
 <img src="images/copy_key.png" alt="Alt text" width="200">
-- Click  <img src="images/colab_button.png" alt="Alt text" width="50"> next to `Step_1_Predict_target_protein_structure.ipynb` in [2. Run Jupyter Notebooks](#2._Run_Jupyter_Notebooks) to open it in Colab.
+- Click "Open in Colab" next to `Step_1_Predict_target_protein_structure.ipynb` in [2. Run Jupyter Notebooks](#2._Run_Jupyter_Notebooks) to open it in Colab.
 - Click key button in the left-hand menu, turn on "Notebook access", put "API_KEY" under "Name", and paste the API Key under "Value" (highlighted with orange strokes below):  
 <img src="images/colab_copy.png" alt="Alt text" width="300">
 - Now you're ready to run the three Jupyter notebooks one-by-one.
