@@ -1,7 +1,7 @@
 # Tutorial - using NVIDIA-hosted BioNeMo NIMs for virtual screening
 This tutorial uses NVIDA-hosted BioNeMo NIMs running on NVIDIA's computing infrastructure. In order to use them, user needs to generate API KEY from build.nvidia.com and then copy & paste it to Colab. After that, user can run the three tutorial Jupyter Notebooks one-by-one. Please follow the instructions below.
 ### 1. Set up API KEY
-- Go to build.nvidia.com in your web browser.
+- Go to [build.nvidia.com](https://build.nvidia.com/explore/discover) in your web browser.
 - Click "Healthcare" in the left-hand menu (highlighted with an orange stroke below):
 <img src="images/click_on_Healthcare.png" alt="Alt text" width="400">
 - Click "molmim" (highlighted with an orange stroke below):
