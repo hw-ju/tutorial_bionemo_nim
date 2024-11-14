@@ -19,6 +19,7 @@ This tutorial uses NVIDA-hosted BioNeMo NIMs running on NVIDIA's computing infra
 \- Click key button in the left-hand menu, turn on "Notebook access", put "API_KEY" under "Name", and paste the API Key under "Value" (highlighted with orange strokes below):    
 <img src="images/colab_copy.png" alt="Alt text" width="300">  
 \- Now you're ready to run the three Jupyter notebooks one-by-one.  
+\- **Note that the API Key might expire after 24 hours. If it no longer works, please repeat the above steps to generate a new API Key.**
 
 
 ### 2. Run Jupyter Notebooks
